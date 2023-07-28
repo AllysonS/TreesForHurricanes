@@ -21,6 +21,8 @@ First, begin by downloading the most up to date version of ETCHR:
 Instructions for using ETCHR are included in the "Instructions" page of the spreadsheet as well as in the companion pdf guide: 
 [ETCHR_guide_v01.pdf](https://github.com/AllysonS/TreesForHurricanes/files/12173655/ETCHR_guide_v01.pdf)
 
+And in a companion how-to video: https://youtu.be/fKgjpg5g8ZY 
+
 ## Resources
 Urban Forest Hurricane Recovery Program Series https://edis.ifas.ufl.edu/collections/series_urban_forest_hurricane_recovery_program 
 
