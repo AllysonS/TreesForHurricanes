@@ -16,7 +16,7 @@ We intend for these tools to help communities plan for and mitigate hurricane da
 We designed the Estimating Tree Community Hurricane Resistance (ETCHR) Tool to help communities evaluate the hurricane wind resistance rating of their tree species. One way to use the ETCHR Tool is to determine the proportion of a tree inventory that is made of Low, Medium Low, Medium High, and High wind resistant species. The Tree Inventory Instructions explain this process below. You can also use the Tool to simply search for the rating of a species. These ratings create a foundation for understanding one aspect of tree resistance to damage from hurricanes and should be used to supplement practitioner experience and knowledge of local conditions. 
 
 First, begin by downloading the most up to date version of ETCHR: 
-[ETCHR_workbook_v01.00.xlsx](https://github.com/AllysonS/TreesForHurricanes/files/12173625/ETCHR_workbook_v01.00.xlsx)
+[ETCHR_workbook_v01.00.xlsx](https://github.com/AllysonS/TreesForHurricanes/files/12197225/ETCHR_workbook_v01.00.xlsx)
 
 Instructions for using ETCHR are included in the "Instructions" page of the spreadsheet as well as in the companion pdf guide: 
 [ETCHR_guide_v01.pdf](https://github.com/AllysonS/TreesForHurricanes/files/12173655/ETCHR_guide_v01.pdf)
