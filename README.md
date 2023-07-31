@@ -12,7 +12,7 @@ Second, since many tree species lack a wind resistance rating, we developed a pr
 
 We intend for these tools to help communities plan for and mitigate hurricane damage to trees. Completely preventing hurricane tree damage in all scenarios is impossible, but these tools can complement other management activities that can help to better balance the costs and benefits of the urban forest.
 
-## Estimating Tree Community Hurricane Resistance Tool (ETCHER)
+## Estimating Tree Community Hurricane Resistance Tool (ETCHR)
 We designed the Estimating Tree Community Hurricane Resistance (ETCHR) Tool to help communities evaluate the hurricane wind resistance rating of their tree species. One way to use the ETCHR Tool is to determine the proportion of a tree inventory that is made of Low, Medium Low, Medium High, and High wind resistant species. The Tree Inventory Instructions explain this process below. You can also use the Tool to simply search for the rating of a species. These ratings create a foundation for understanding one aspect of tree resistance to damage from hurricanes and should be used to supplement practitioner experience and knowledge of local conditions. 
 
 First, begin by downloading the most up to date version of ETCHR: 
@@ -22,6 +22,11 @@ Instructions for using ETCHR are included in the "Instructions" page of the spre
 [ETCHR_guide_v01.pdf](https://github.com/AllysonS/TreesForHurricanes/files/12173655/ETCHR_guide_v01.pdf)
 
 And in a companion how-to video: https://youtu.be/IKMXXAHk7sA
+
+## Random Forest Model for Predicting Wind Resistance Ratings
+You can use the R script GH_wind_model_final.R to fit the random forest model for predicting wind resistance ratings based on the original research by Duryea et al. (2007a, b). Once trained, the model can be used to predict the rating for new species if the following information is available: 1) species wood density, 2) leaf mass per area, 3) species overall maximum height, 4) proportion of the species killed and/or damaged during a hurricane or tropical cyclone, 5) the latitude and 6) longitude of the study location, 7) if the study site is in a urban area, 8) if the species is an angiosperm or gymnosperm, 9) if the species have evergreen or (semi)deciduous leaves, 10) the study site biome, 11) and the time since a previous hurricane or tropical cyclone impacted the study area. 
+
+The following files contain data for training the random forest model: 01_spp_damage_trait_env.csv, Species_common_names.csv, and Wind_resistance_methods.xlsx. 
 
 ## Resources
 Urban Forest Hurricane Recovery Program Series https://edis.ifas.ufl.edu/collections/series_urban_forest_hurricane_recovery_program 
